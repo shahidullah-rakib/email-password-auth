@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live site Link
+https://stellular-mermaid-e88dd4.netlify.app/
+
+## Available Fetuchers
+
+1. Firebase Authentication
+2. Email verifecation 
+
 ## Available Scripts
 
 In the project directory, you can run:
